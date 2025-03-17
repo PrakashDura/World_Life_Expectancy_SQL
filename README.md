@@ -9,7 +9,7 @@ The project consists of two key phases:
 
 ---
 
-# 📂 Dataset Information
+## 📂 Dataset Information
 ### ✅ **Dataset Overview**
 - **Total Rows:** 2,941
 - **Total Columns:** 18
@@ -24,7 +24,7 @@ The project consists of two key phases:
 
 ---
 
-# 🛠️ Data Cleaning Process
+## 🛠️ Data Cleaning Process
 
 ## ✅ Steps Performed:
 ### 🔍 Identifying and Removing Duplicates
@@ -44,7 +44,7 @@ The project consists of two key phases:
 
 ---
 
-# 📊 Exploratory Data Analysis (EDA)
+#3 📊 Exploratory Data Analysis (EDA)
 
 ## 📈 Key Insights Explored:
 - **Life Expectancy Trends Over the Past 15 Years.**
@@ -55,14 +55,14 @@ The project consists of two key phases:
 
 ---
 
-# 🚀 Technologies Used
+## 🚀 Technologies Used
 - **Database:** MySQL
 - **Techniques:** Data Cleaning, SQL Joins, Aggregations, Subqueries
 - **Tools:** SQL Workbench / MySQL CLI
 
 ---
 
-# 📌 How to Use This Repository
+## 📌 How to Use This Repository
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/world-life-expectancy-analysis.git
